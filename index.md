@@ -1,3 +1,4 @@
-# This is a header
-## This is bold
-### What is this?
+# Helene Steiner's projects
+You cand find DIY and educational projects of mine here.
+For design projects visit (www.helenesteiner.com)
+
