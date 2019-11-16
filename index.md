@@ -21,12 +21,10 @@ You can find the full tutorial [here](https://github.com/tmopencell/diycomputer)
 ##### Week 3:  
 Forage and culture mycelia yourself: Introduction to fungi
 By Ashley Granter  
-
 You can find the full tutorial [here](https://github.com/heleneopencell/cloningfungi)  
 
 ##### Week 4:  
 Selfhealing materials & pigment production: Introduction to Synthetic Biology  
-
 You will find the full tutorial [here soon]().
 
 
